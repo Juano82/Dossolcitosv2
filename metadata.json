@@ -1,0 +1,6 @@
+{
+  "name": "Auditoría y Optimización - Dos Solcitos",
+  "description": "Herramienta interactiva de auditoría técnica, diagnóstico de conversión y prototipo rediseñado para el catálogo de Dos Solcitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

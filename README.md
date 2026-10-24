@@ -1,11 +1,27 @@
-<div align="center">
+# Dos Solcitos v2 - Catálogo Web
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Catálogo interactivo de indumentaria infantil conectado en tiempo real a Google Sheets, con selector de talles, visualizador de fotos y generación de pedidos para WhatsApp.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Características
+- **Precios Claros y Atractivos:** Precio contado/transferencia destacado en grande + 3 cuotas fijas.
+- **Conexión en Vivo con Google Sheets:** Sincronización automática de stock, precios y fotos.
+- **Selector Inteligente de Talles:** Muestra los talles disponibles y deshabilita visualmente los que están sin stock momentáneamente.
+- **Fotos de Alta Calidad:** Soporte optimizado para imágenes de Google Drive con zoom ampliado.
+- **Carrito y Checkout para WhatsApp:** Cálculo de ahorro automático y envío estructurado del pedido directo al WhatsApp del negocio.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🛠️ Tecnologías
+- React 19 + TypeScript
+- Vite
+- Tailwind CSS
+- Lucide React
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 📦 Instalación y Ejecución Local
+```bash
+npm install
+npm run dev
+```
 
-</div>
+## 🌐 Despliegue en Vercel
+1. Conectar este repositorio en el panel de Vercel.
+2. Build Command: `npm run build`
+3. Output Directory: `dist`
